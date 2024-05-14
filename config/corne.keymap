@@ -15,7 +15,7 @@
         compatible = "zmk,combos";
 
         combo_game {
-            bindings = <&tog 7>;
+            bindings = <&tog 6>;
             key-positions = <38 39>;
         };
     };
